@@ -1,4 +1,4 @@
 title: My GitHub Pages Site
 description: A simple site using a remote Jekyll theme
 theme: mmistakes/minimal-mistakes@4.27.3
-plugins: jekyll-include-cache
+plugins: [jekyll-include-cache]
