@@ -1,1 +1,3 @@
-**Website for CHI 2026 Workshop:** Sociotechnical Imaginaries of Responsible Design - A Case for Mitigating Gender-based Online Harm
+# CHI 2026 Workshop on Socio-technical Imaginaries for Responsible Design
+
+
