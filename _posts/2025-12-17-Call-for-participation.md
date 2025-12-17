@@ -2,7 +2,8 @@
 title: "Call for Participation"
 last_modified_at: 2025-12-17T09:20:02-05:00
 header:
-    image: /assets/images/default_500x300.png
+    teaser: /assets/images/cfp_500x300.png
+    image: /assets/images/cfp_500x300.png
 ---
 
 This workshop aims to create a space for critical reflection, collaboration, and imagination around the responsible design of technology, bringing together diverse voices and visions to explore
