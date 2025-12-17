@@ -27,7 +27,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ou-cpwo/chi-sird-2026"
 teaser                   : "assets/images/default_500x300.png"
 logo                     : "assets/images/CHIWorkshopLogo_88x88.png"
-masthead_title           : "Socio-technical Imaginaries for Responsible Design"
+masthead_title           : "CHI2026 Workshop: Socio-technical Imaginaries for Responsible Design"
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
