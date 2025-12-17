@@ -27,7 +27,7 @@ feature_row:
 ---
 
 <h2>Welcome!</h2>
-<figure><a href="/chi-sird-2026/assets/images/chi-sird-logo.png align="right"><img src="/assets/images/chi-sird-logo.png"></a></figure>
+<figure><a href="/chi-sird-2026/assets/images/chi-sird-logo.png" halign="right" width="20%"><img src="/chi-sird-2026/assets/images/chi-sird-logo.png"></a></figure>
 
 <p>
 Gender-based online harm has become a global problem due to
