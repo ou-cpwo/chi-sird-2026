@@ -3,6 +3,7 @@ layout: splash
 author_profile: true
 permalink: /cfp/
 ---
+## Call for Participation
 
 Sociotechnical imaginaries help to frame potential benefits and
 risks associated with digital technology. This workshop aims to
@@ -36,7 +37,7 @@ Relevant topics include, but are not limited to:
 
 Acceptance will be based on workshop relevance and the potential to contribute to discussions, as reviewed by workshop organizers. All successful workshop position papers require at least one author to attend the workshop in person and be registered for the workshop.
 
-### Important dates:
+**Important dates:**
  *  **Submission deadline:** 12 Feb 2026 (or 18 Feb 2026)
  * **Notification of Acceptance:** 19 Feb 2026 (or 25 Feb 2026 the latest) 
 {: .notice--info}

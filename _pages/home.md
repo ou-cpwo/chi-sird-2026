@@ -28,11 +28,6 @@ feature_row:
 
 ## Welcome!
 
-### Important dates:
- *  **Submission deadline:** 12 Feb 2026 (or 18 Feb 2026)
- * **Notification of Acceptance:** 19 Feb 2026 (or 25 Feb 2026 the latest) 
-{: .notice--info}
-
 Gender-based online harm has become a global problem due to
 technological advances and affordances. Despite an increasing interest in designing technical and legal interventions in tackling
 online harm, the level of online violence against women and girls
@@ -46,6 +41,11 @@ better understand the responsibility in responsible design. This will
 also help the HCI community understand how to put responsible
 design into practice and shape the future of responsible technology
 that prevents gender-based online harms.
+
+**Important dates:**
+ *  **Submission deadline:** 12 Feb 2026 (or 18 Feb 2026)
+ * **Notification of Acceptance:** 19 Feb 2026 (or 25 Feb 2026 the latest) 
+{: .notice--info}
 
 {% include feature_row %}
 
