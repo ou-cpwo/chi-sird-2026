@@ -3,9 +3,9 @@ main:
   - title: "Home"
     url: https://ou-cpwo.github.io/chi-sird-2026/
   - title: "Organisers"
-    url: /organisers.md
+    url: /organisers/
   - title: "Call for Participation"
-    url: /cfp.md
+    url: /cfp/
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
