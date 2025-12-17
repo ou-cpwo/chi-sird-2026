@@ -4,9 +4,8 @@ author_profile: true
 permalink: /organisers/
 ---
 
-Our team of organizers represents experts in online harms, personal
-safety, psychology, design, methodology, misinformation, responsible software engineering, pro-social computing, social engineering,
-and enterprise design thinking, from both academic and industry
+Our team of organizers represent experts in online harms, personal
+safety, psychology, design, methodology, misinformation, responsible software engineering, pro-social computing, social engineering, and enterprise design thinking, from both academic and industry
 backgrounds. Each organizer brings unique expertise, experience,
 and vision to the workshop. Our team has extensive workshop
 organizational experience in user experience, responsible software
