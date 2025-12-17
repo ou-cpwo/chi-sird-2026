@@ -20,7 +20,7 @@ feature_row:
   - image_path: /assets/images/team_500x300.png
     alt: "Organisers"
     title: "Team"
-    excerpt: "Find out more about organisers"
+    excerpt: "Meet the organisers"
     url: "organisers/"
     btn_class: "btn--primary"
     btn_label: "Organisers"    
