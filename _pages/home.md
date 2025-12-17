@@ -12,7 +12,7 @@ feature_row:
     btn_label: "CfP"
   - image_path: /assets/images/default_500x300.png
     alt: "CHI 2006 Workshop Proposal"
-    title: "CHI 2006 Workshop Proposal"
+    title: "CHI 2006 Proposal"
     excerpt: "Read the full workshop proposal"
     url: "CHI-submission/"
     btn_class: "btn--primary"
@@ -27,13 +27,15 @@ feature_row:
 ---
 
 <h2>Welcome!</h2>
-<p>Gender-based online harm has become a global problem due to
+<p><a href="/chi-sird-2026/assets/images/chi-sird-logo.png align="right"><img src="/assets/images/chi-sird-logo.png"></a>
+Gender-based online harm has become a global problem due to
 technological advances and affordances. Despite an increasing in-
 terest in designing technical and legal interventions in tackling
 online harm, the level of online violence against women and girls
 remains high. Responsible design plays a pivotal role in mitigating
 technological harms, and it has particularly captured attention in
 the era of Artificial Intelligence (AI). </p>
+
 
 <p>This workshop aims to use the sociotechnical imaginary framework to bring 
     together HCI researchers, developers, and practitioners across domains and sectors to collectively reflect and envision how responsible design can
