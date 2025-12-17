@@ -3,3 +3,37 @@ layout: home
 author_profile: true
 permalink: /cfp/
 ---
+
+Sociotechnical imaginaries help to frame potential benefits and
+risks associated with digital technology. This workshop aims to
+develop imaginaries for how responsible design can help address
+and mitigate gender-based harm online. We aim to bring together
+researchers, designers, technologists, and practitioners who are
+actively working on, or reflecting on, projects that intersect with
+gender, safety, and harm in digital spaces.
+
+We invite interested researchers and practitioners to submit a
+short position statement (up to 2 pages excluding references, in
+CHI submission format) and bio (up to 200 words) that demonstrates their interest, experience, and knowledge in relevant topics.
+
+Submissions may present previously completed research, work-in-
+progress, emerging ideas, conceptual challenges, or opportunities
+for reflecting on responsible design and real-world experience. 
+
+Relevant topics include, but are not limited to:
+ * Conceptual explorations of responsibility and online harm
+ * Representations of online safety, harm, and responsibility
+ * Experience of handling ‘responsibility’ in technology
+ * Online harassment and abuse prevention
+ * Responsible design
+ * Policy and governance implications in responsible design
+ * Methods and theories for conducting responsible design
+ * Responsible design with gendered or marginalized groups
+ * Critical reflection on responsible technology/responsible AI
+ * Novel perspectives in responsible design and its future
+ * Organizational contexts of responsible design and development
+ * Applications of infrastructural justice to responsible design
+
+Acceptance will be based on workshop relevance and the potential to contribute to discussions, as reviewed by workshop organizers. All successful workshop position papers require at least one author to attend the workshop in person and be registered for the workshop.
+
+Please register your interest in participating by completing the online form here [tbc], which also provides information on where to send your 2-page position statement.
