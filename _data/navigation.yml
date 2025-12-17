@@ -1,8 +1,11 @@
 # main links
 main:
-  - title: "CHI 2026 Workshop"
+  - title: "Home"
     url: https://ou-cpwo.github.io/chi-sird-2026/
-  # - title: "Sample Posts"
+  - title: "Organisers"
+    url: /organisers/
+  - title: "Call for Participation"
+    url: /cfp/
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
