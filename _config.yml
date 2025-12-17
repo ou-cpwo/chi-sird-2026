@@ -15,19 +15,19 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-GB"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Socio-technical Imaginaries for Responsible Design"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "The Open University, Centre for Protecting Women Online"
-description              : "A Case for Mitigating Gender-based Online Harm"
+subtitle                 : "A Case for Mitigating Gender-based Online Harm"
+name                     : "Centre for Protecting Women Online"
+description              : "A CHI 2026 workshop that explores socio-technical imaginaries for responsible design"
 url                      : "https://ou-cpwo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ou-cpwo/chi-sird-2026"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+teaser                   : "assets/images/default_500x300.png"
+logo                     : "assets/images/CHIWorkshopLogo_88x88.png"
+masthead_title           : "Socio-technical Imaginaries for Responsible Design"
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
