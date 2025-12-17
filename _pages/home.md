@@ -27,7 +27,7 @@ feature_row:
 ---
 
 <h2>Welcome!</h2>
-<p><a href="/chi-sird-2026/assets/images/chi-sird-logo.png align="right"><img src="/assets/images/chi-sird-logo.png"></a>
+<a href="/chi-sird-2026/assets/images/chi-sird-logo.png align="right"><img src="/assets/images/chi-sird-logo.png"></a><p>
 Gender-based online harm has become a global problem due to
 technological advances and affordances. Despite an increasing in-
 terest in designing technical and legal interventions in tackling
