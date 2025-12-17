@@ -42,9 +42,9 @@ also help the HCI community understand how to put responsible
 design into practice and shape the future of responsible technology
 that prevents gender-based online harms.
 
-**Important dates:**{: .notice--info}
- *  **Submission deadline:** 12 Feb 2026 (or 18 Feb 2026)
- * **Notification of Acceptance:** 19 Feb 2026 (or 25 Feb 2026 the latest) 
+**Important dates:**<br/>
+  **- Submission deadline:** 12 Feb 2026 (or 18 Feb 2026)<br/>
+  **- Notification of Acceptance:** 19 Feb 2026 (or 25 Feb 2026 the latest) 
 {: .notice--info}
 
 {% include feature_row %}
