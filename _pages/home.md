@@ -28,13 +28,9 @@ feature_row:
 
 <h2>Welcome!</h2>
 
-<figure>
-<img src="/chi-sird-2026/assets/images/chi-sird-logo.png" halign="right" width="20%">
-</figure>
-
 <h3>Important dates:</h3><p>
- Submission deadline: 12 Feb 2026 (or 18 Feb 2026); <br/>
- Notification of Acceptance: 19 Feb 2026 (or 25 Feb 2026 the latest) 
+ <b>Submission deadline:</b> 12 Feb 2026 (or 18 Feb 2026); <br/>
+ <b>Notification of Acceptance:</b> 19 Feb 2026 (or 25 Feb 2026 the latest) 
 </p>
 
 <p>
