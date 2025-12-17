@@ -1,9 +1,6 @@
 ---
 layout: splash
 permalink: /
-hidden: true
-header:
-  overlay_color: "#5e616c"
 
 feature_row:
   - image_path: /assets/images/default_500x300.png
