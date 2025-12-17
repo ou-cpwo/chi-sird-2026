@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "The Open University, Centre for Protecting Women Online"
 description              : "A Case for Mitigating Gender-based Online Harm"
-url                      : "https://ou-cpwo.github.io/chi-sird-2026/"
+url                      : "https://ou-cpwo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ou-cpwo/chi-sird-2026"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
