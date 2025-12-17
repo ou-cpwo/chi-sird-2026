@@ -3,6 +3,18 @@ title: "Call for Participation"
 last_modified_at: 2025-12-17T09:20:02-05:00
 ---
 
-We are pleased to launch the website for the workshop, inviting participation from ...
+This workshop aims to create a space for critical reflection, collaboration, and imagination around the responsible design of technology, bringing together diverse voices and visions to explore
+how we can leverage new approaches, technologies, and mechanisms to better understand the problem, challenge harmful norms, support affected communities, and build safer and more inclusive digital futures. 
 
-For more information see [https://ou-cpwo.github.io/chi-sird-2026/cfp/]
+By foregrounding gendered experiences and interdisciplinary perspectives, we aim to generate new points of view, representations, and imaginations by rethinking what responsibility means in the context of gender-based online harms, decoding the complexities and tensions between different understandings of online harm and responses, to
+better understand implications for responsible design and practice. We also aim for the workshop to build a community and inspire future events, such as panels and workshops at other SIGCHI venues, research collaborations, and grant applications. This workshop will explore the following questions:
+
+ 1. What are the sociotechnical imaginaries of safe online spaces free of gender-based violence?
+ 2. What do we mean by responsibility? Who is responsible for what, and to whom?
+ 3. What taken-for-granted norms contribute to online harms? How can we change design norms to create responsibility?
+ 4. How to deal with tensions between distributing individual and shared responsibilities in managing online harms?
+ 5. What does being responsible look like in design and its processes, and organizational arrangements? What are symbols, narratives, and representations of ‘being responsible’?
+ 6. How to put responsibility in design? Which methodology works (and in what contexts)?
+ 7. What does responsible design for tackling gender-based online harm require in practice?
+
+For more information on topics of interest and how to regiester your interest in participating, please see [(https://ou-cpwo.github.io/chi-sird-2026/cfp/)]
