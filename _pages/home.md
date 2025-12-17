@@ -32,6 +32,11 @@ feature_row:
 <img src="/chi-sird-2026/assets/images/chi-sird-logo.png" halign="right" width="20%">
 </figure>
 
+<h3>Important dates:</h3><p>
+ Submission deadline: 12 Feb 2026 (or 18 Feb 2026); <br/>
+ Notification of Acceptance: 19 Feb 2026 (or 25 Feb 2026 the latest) 
+</p>
+
 <p>
 Gender-based online harm has become a global problem due to
 technological advances and affordances. Despite an increasing interest in designing technical and legal interventions in tackling
