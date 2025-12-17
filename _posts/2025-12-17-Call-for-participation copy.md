@@ -19,4 +19,4 @@ better understand implications for responsible design and practice. We also aim 
  6. How to put responsibility in design? Which methodology works (and in what contexts)?
  7. What does responsible design for tackling gender-based online harm require in practice?
 
-For more information on topics of interest and how to regiester your interest in participating, please see [(https://ou-cpwo.github.io/chi-sird-2026/cfp/)]
+For more information on topics of interest and how to regiester your interest in participating, please visit:  [https://ou-cpwo.github.io/chi-sird-2026/cfp/](https://ou-cpwo.github.io/chi-sird-2026/cfp/)
