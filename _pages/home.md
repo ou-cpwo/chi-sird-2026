@@ -28,9 +28,11 @@ feature_row:
 
 <h2>Welcome!</h2>
 
+<p class=notice--info>
 <h3>Important dates:</h3><p>
  <b>Submission deadline:</b> 12 Feb 2026 (or 18 Feb 2026); <br/>
  <b>Notification of Acceptance:</b> 19 Feb 2026 (or 25 Feb 2026 the latest) 
+</p>
 </p>
 
 <p>
