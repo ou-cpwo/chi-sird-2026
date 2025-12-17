@@ -13,17 +13,17 @@ feature_row:
   - image_path: /assets/images/default_500x300.png
     alt: "CHI 2006 Workshop Proposal"
     title: "CHI 2006 Workshop Proposal"
-    excerpt: "Read the full proposal for the workshop"
+    excerpt: "Read the full workshop proposal"
     url: "CHI-submission/"
     btn_class: "btn--primary"
-    btn_label: "CfP"  
+    btn_label: "Proposal"  
   - image_path: /assets/images/team_500x300.png
     alt: "Organisers"
-    title: "Organisers"
+    title: "Team"
     excerpt: "Find out more about the team organising this workshop"
     url: "organisers/"
     btn_class: "btn--primary"
-    btn_label: "CfP"    
+    btn_label: "Organisers"    
 ---
 
 <h2>Welcome!</h2>

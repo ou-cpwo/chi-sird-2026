@@ -5,9 +5,9 @@ header:
     teaser: /assets/images/default_500x300.png
 ---
 
-You can read the full paper where we described our workshop proposal below:
+You can read the full paper where we described our workshop proposal by clicking on the link below:
 
 <figure>
-	<a href="/chi-sird-2026/assets/images/chi26-sird-paper.png"><img src="/chi-sird-2026/assets/images/chi26-sird-paper.png"></a>
-	<figcaption><a href="/chi-sird-2026/assets/images/chi26-sird-paper.png" title="CHI 2026 Workshop Proposal">CHI 2026 Workshop Proposal</a>.</figcaption>
+	<a href="/chi-sird-2026/assets/documents/chi26g-sird-paper.pdf"><img src="/chi-sird-2026/assets/images/chi26-sird-paper.png"></a>
+	<figcaption><a href="/chi-sird-2026/assets/documents/chi26g-sird-paper.pdf" title="CHI 2026 Workshop Proposal">CHI 2026 Workshop Proposal</a>.</figcaption>
 </figure>
