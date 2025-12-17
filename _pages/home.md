@@ -3,25 +3,25 @@ layout: splash
 permalink: /
 
 feature_row:
-  - image_path: /assets/images/default_500x300.png
-    alt: "CHI 2006 Workshop"
+  - image_path: /assets/images/cfp_500x300.png
+    alt: "Call for Participation"
     title: "Call for Participation"
     excerpt: "Find out more about how to join our workshop"
     url: "Call-for-participation/"
     btn_class: "btn--primary"
     btn_label: "CfP"
   - image_path: /assets/images/default_500x300.png
-    alt: "CHI 2006 Workshop"
-    title: "Call for Participation"
-    excerpt: "Find out more about how to join our workshop"
-    url: "Call-for-participation/"
+    alt: "CHI 2006 Workshop Proposal"
+    title: "CHI 2006 Workshop Proposal"
+    excerpt: "Read the full proposal for the workshop"
+    url: "CHI-submission/"
     btn_class: "btn--primary"
     btn_label: "CfP"  
-  - image_path: /assets/images/default_500x300.png
-    alt: "CHI 2006 Workshop"
-    title: "Call for Participation"
-    excerpt: "Find out more about how to join our workshop"
-    url: "Call-for-participation/"
+  - image_path: /assets/images/team_500x300.png
+    alt: "Organisers"
+    title: "Organisers"
+    excerpt: "Find out more about the team organising this workshop"
+    url: "organisers/"
     btn_class: "btn--primary"
     btn_label: "CfP"    
 ---
