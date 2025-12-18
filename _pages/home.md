@@ -4,10 +4,10 @@ permalink: /
 
 feature_row:
   - image_path: /assets/images/cfp_500x300.png
-    alt: "Call for Participation"
-    title: "Call for Participation"
-    excerpt: "Find out more about how to join our workshop"
-    url: "Call-for-participation/"
+    alt: "About"
+    title: "About"
+    excerpt: "Find out more about our workshop"
+    url: "About/"
     btn_class: "btn--primary"
     btn_label: "CfP"
   - image_path: /assets/images/default_500x300.png
