@@ -56,5 +56,5 @@ that prevents gender-based online harms.
 This work is supported by the [Centre for Protecting Women Online](https://cpwo.open.ac.uk), at The Open University, UK.
 
 <figure>
-	<a href="https://cpwo.open.ac.uk"><img src="/chi-sird-2026/assets/images/cpwo_logo.png" width="10%"></a>
+	<a href="https://cpwo.open.ac.uk"><img src="/chi-sird-2026/assets/images/cpwo_logo.png" width="5%"></a>
 </figure>
