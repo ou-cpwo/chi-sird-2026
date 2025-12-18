@@ -1,0 +1,48 @@
+            - name: Web Accessibility Evaluation
+  
+  # You may pin to the exact commit or the version.
+  # uses: a11ywatch/github-actions@d61a01aad49cc54db0a669cc61b7e85f08994162
+  
+  uses: a11ywatch/github-actions@v2.1.10
+  with:
+    # Website domain to scan
+    WEBSITE_URL: https://ou-cpwo.github.io/chi-sird-2026/
+    # Attempt to apply recommendations to code.
+    FIX: # optional
+    # Use the A11yWatch external API.
+    EXTERNAL: # optional
+    # Perform a site-wide scan.
+    SITE_WIDE: # optional
+    # Extend crawl with sitemap links.
+    SITEMAP: # optional
+    # Include all subdomains.
+    SUBDOMAINS: # optional
+    # Include all TLD extensions.
+    TLD: # optional
+    # Enable video recording audits to a directory location.
+    RECORD: # optional
+    # Use to fail the CI if the amount of issues of type errors and warnings is greater than the count.
+    FAIL_TOTAL_COUNT: # optional, default is 0
+    # Use to fail the CI if the amount of issues of type errors is greater than the count.
+    FAIL_ERRORS_COUNT: # optional, default is 0
+    # Use to fail the CI if the amount of issues of type warnings is greater than the count.
+    FAIL_WARNINGS_COUNT: # optional, default is 0
+    # Disable the bot from posting on your PR.
+    DISABLE_PR_STATS: # optional
+    # The github token to use for posting comments.
+    TOKEN: # optional, default is 
+    # Report the output to github as a pass or fail list.
+    LIST: # optional
+    # The A11yWatch token to authenticate to the API.
+    A11YWATCH_TOKEN: # optional, default is 
+    # The Computer Vision endpoint to use for advanced AI.
+    COMPUTER_VISION_ENDPOINT: # optional, default is 
+    # The Computer Vision subscription key to use for advanced AI.
+    COMPUTER_VISION_SUBSCRIPTION_KEY: # optional, default is 
+    # Use a gRPC client to gather issues.
+    SLIM: # optional, default is true
+    # Upgrade the CLI to latest across runs.
+    UPGRADE: # optional
+    # Upload the audit as an artifact.
+    UPLOAD: # optional
+          
