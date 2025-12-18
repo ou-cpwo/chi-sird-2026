@@ -87,3 +87,9 @@ Foundation Ireland Research Centre for Software. She has an in-
 terest in responsible design and engineering, community-based
 research, creative methods, and children. She has co-organized
 workshops for DIS and other venues.
+
+This work is supported by the [Centre for Protecting Women Online](https://cpwo.open.ac.uk), at The Open University, UK.
+
+<figure>
+	<a href="https://cpwo.open.ac.uk"><img src="/chi-sird-2026/assets/images/cpwo_logo.png"></a>
+</figure>
