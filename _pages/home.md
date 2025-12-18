@@ -9,7 +9,7 @@ feature_row:
     excerpt: "Find out more about our workshop"
     url: "About/"
     btn_class: "btn--primary"
-    btn_label: "CfP"
+    btn_label: "About"
   - image_path: /assets/images/default_500x300.png
     alt: "CHI 2006 Workshop Proposal"
     title: "CHI 2006 Proposal"
