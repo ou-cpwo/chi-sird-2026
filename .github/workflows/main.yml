@@ -1,8 +1,6 @@
-            - name: Web Accessibility Evaluation
-  
+- name: Web Accessibility Evaluation
   # You may pin to the exact commit or the version.
   # uses: a11ywatch/github-actions@d61a01aad49cc54db0a669cc61b7e85f08994162
-  
   uses: a11ywatch/github-actions@v2.1.10
   with:
     # Website domain to scan
