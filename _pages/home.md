@@ -50,7 +50,7 @@ that prevents gender-based online harms.
 {% include feature_row %}
 
 **Accepted Workshop Proposal:**
-*Min Zhang, Arosha K Bandara, Gordon Rugg, Irum Rauf, Dilrukshi Gamage, Bashar Nuseibeh, Silvia Podesta, Wanling Cai, and Sarah Robinson. 2026. Sociotechnical Imaginaries of Responsible Design: A Case for Mitigating Gender-based Online Harm. In Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA ’26), April 13–17, 2026, Barcelona, Spain. ACM, New York, NY, USA, 6 pages. [https://doi.org/10.1145/3772363.3778700](https://doi.org/10.1145/3772363.3778700)*
+*Min Zhang, Arosha K Bandara, Gordon Rugg, Irum Rauf, Dilrukshi Gamage, Bashar Nuseibeh, Silvia Podesta, Wanling Cai, and Sarah Robinson. 2026. Sociotechnical Imaginaries of Responsible Design: A Case for Mitigating Gender-based Online Harm. In Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA ’26), April 13–17, 2026, Barcelona, Spain. ACM, New York, NY, USA, 6 pages. https://doi.org/10.1145/3772363.3778700*
 {: .notice--success}
 
 This work is supported by the [Centre for Protecting Women Online](https://cpwo.open.ac.uk), at The Open University, UK.
