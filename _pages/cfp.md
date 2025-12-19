@@ -42,10 +42,7 @@ Acceptance will be based on workshop relevance and the potential to contribute t
   **- Notification of Acceptance:** 19 Feb 2026 
 {: .notice--info}
 
-Please register your interest in participating by completing the online form: [Workshop Participation Registration Form](https://forms.office.com/e/negYukPLvZ). Once you've completed the form, please send your 2-page position statement via the following email: [Submit 2-page position statement](mailto:min.zhang@open.ac.uk?subject=CHI%20SIRD%20Workshop%20Position%20Paper)
+Please register your interest in participating by completing the online form: [Workshop Participation Registration Form](https://forms.office.com/e/negYukPLvZ). Once you've completed the form, please send your 2-page position statement via the following link: [Submit 2-page position statement](mailto:min.zhang@open.ac.uk?subject=CHI%20SIRD%20Workshop%20Position%20Paper)
 
-This work is supported by the [Centre for Protecting Women Online](https://cpwo.open.ac.uk), at The Open University, UK.
+If you have any questions, please contact Dr. Min Zhang at [min.zhang@open.ac.uk](mailto:min.zhang@open.ac.uk?subject=CHI%20SIRD%20Workshop%20Question)
 
-<figure>
-	<a href="https://cpwo.open.ac.uk"><img src="/chi-sird-2026/assets/images/cpwo_logo.png"></a>
-</figure>
