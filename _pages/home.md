@@ -26,7 +26,7 @@ feature_row:
     btn_label: "Organisers"    
 ---
 
-## Welcome!
+## Welcome to CHI SIRD 2026!
 
 Gender-based online harm has become a global problem due to
 technological advances and affordances. Despite an increasing interest in designing technical and legal interventions in tackling
