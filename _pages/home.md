@@ -12,7 +12,7 @@ feature_row:
     btn_label: "About"
   - image_path: /assets/images/default_500x300.png
     alt: "CHI 2006 Workshop Proposal"
-    title: "CHI 2006 Proposal"
+    title: "Workshop Proposal"
     excerpt: "Read the full workshop proposal"
     url: "CHI-submission/"
     btn_class: "btn--primary"
