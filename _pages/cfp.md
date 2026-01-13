@@ -47,7 +47,7 @@ Please register your interest in participating by completing the online form: [W
 **Position Statement Formatting**<br/>
 The template for submissions is one of:<br/>
  - 1-column Word Submission Template [acm_submission_template.docx](https://authors.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx)<br/>
- - [1-column LaTeX](https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip) (also on [Overleaf](https://www.overleaf.com/latex/templates/acm-conference-proceedings-master-template/pnrfvrrdbfwt)). Please note that the default template is set for 2-column and needs to be manually changed to 1-column for initial review using the option shown below ‘): use \documentclass[manuscript,review]{acmart}.
+ - [1-column LaTeX](https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip) (also on [Overleaf](https://www.overleaf.com/latex/templates/acm-conference-proceedings-master-template/pnrfvrrdbfwt)). Please note that the default template is set for 2-column and needs to be manually changed to 1-column for initial review using the the following option): <pre>use \documentclass[manuscript,review]{acmart}.</pre>
 {: .notice--warning}
 
 If you have any questions, please contact Dr. Min Zhang at [min.zhang@open.ac.uk](mailto:min.zhang@open.ac.uk?subject=CHI%20SIRD%20Workshop%20Question)
