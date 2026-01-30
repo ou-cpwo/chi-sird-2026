@@ -28,6 +28,10 @@ feature_row:
 
 ### Welcome to CHI SIRD 2026!
 
+**Latest News:**
+Workshop Date/time: 15 April 2026; Session 1 - 14:15-15:45 CEST; Session 2 - 16:30-18:00 CEST
+{: .notice--success}
+
 Gender-based online harm has become a global problem due to
 technological advances and affordances. Despite an increasing interest in designing technical and legal interventions in tackling
 online harm, the level of online violence against women and girls
