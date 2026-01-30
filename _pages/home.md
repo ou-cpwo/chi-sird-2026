@@ -28,8 +28,8 @@ feature_row:
 
 ### Welcome to CHI SIRD 2026!
 
-**Latest News:**
-Workshop Date/time: 15 April 2026; Session 1 - 14:15-15:45 CEST; Session 2 - 16:30-18:00 CEST
+**Latest News:**<br/>
+**Workshop Date/time:** 15 April 2026; Session 1 - 14:15-15:45 CEST; Session 2 - 16:30-18:00 CEST
 {: .notice--success}
 
 Gender-based online harm has become a global problem due to
@@ -49,6 +49,7 @@ that prevents gender-based online harms.
 **Important dates:**<br/>
   **- Submission deadline:** 12 Feb 2026<br/>
   **- Notification of Acceptance:** 19 Feb 2026 
+  **- Workshop Date/time:** 15 April 2026; Session 1 - 14:15-15:45 CEST; Session 2 - 16:30-18:00 
 {: .notice--info}
 
 {% include feature_row %}
