@@ -16,7 +16,7 @@ feature_row:
     excerpt: "Read the accepted position papers from workshop participants"
     url: "CHI-submission/"
     btn_class: "btn--primary"
-    btn_label: "Proposal"  
+    btn_label: "Position Papers"  
   - image_path: /assets/images/team_500x300.png
     alt: "Organisers"
     title: "Team"
@@ -29,6 +29,7 @@ feature_row:
 ### Welcome to CHI SIRD 2026!
 
 **Latest News:**<br/>
+**Position Papers** are now published - just click the button below!<br/>
 **Workshop Date/time:** 15 April 2026; Session 1 - 14:15-15:45 CEST; Session 2 - 16:30-18:00 CEST
 {: .notice--success}
 
