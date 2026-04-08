@@ -1,5 +1,5 @@
 ---
-title: "CHI 2026 Position Papers"
+title: "Position Papers"
 last_modified_at: 2025-12-17T09:21:02-05:00
 header:
     teaser: /assets/images/default_500x300.png
@@ -23,7 +23,7 @@ We are pleased to share the accepted position papers of the workshop participant
 - **Turk, K. I., Talas, A.**: [Prevention of Interpersonal HARMS Through Threat Modelling](/chi-sird-2026/assets/documents/CHI-SIRD-21.pdf)
 - **Luther, A. R.**: [Envisioning Responsible Personal Moderation for Gender-Based Online Harm](/chi-sird-2026/assets/documents/CHI-SIRD-22.pdf)
 
-You can read the full paper where we described our workshop proposal by clicking on the link below:
+<br/>You can read the full paper where we described our workshop proposal by clicking on the link below:
 
 <figure>
 	<a href="/chi-sird-2026/assets/documents/chi26g-sird-paper.pdf"><img src="/chi-sird-2026/assets/images/chi26-sird-paper.png"></a>
