@@ -13,7 +13,7 @@ We are pleased to share the accepted position papers of the workshop participant
 - **Zhang, Z.**: [A Hierarchy of Responsibility for Harm Mitigation in Design of Video Games](/chi-sird-2026/assets/documents/CHI-SIRD-11.pdf)
 - **Ahmed, N.**: [Reimagining Social Media as Sociotechnical Infrastructure for Collective Responsibility in Addressing Gender-Based Violence](/chi-sird-2026/assets/documents/CHI-SIRD-12.pdf)
 - **Twomey, J.**: [Designing Responsibly To Stop Deepfake Abuse Perpetration](/chi-sird-2026/assets/documents/CHI-SIRD-13.pdf)
-- **De Haro i Pérez, R.**: [Safety by Design: Closing the Regulation-Design Gap](/chi-sird-2026/assets/documents/CHI-SIRD-14.pdf)
+- **De Haro i Pérez, R., Valente, M., Jurasz, O.**: [Safety by Design: Closing the Regulation-Design Gap](/chi-sird-2026/assets/documents/CHI-SIRD-14.pdf)
 - **Morais, M. C., Santuber, J., Schülter, J., Lvov, N.,**: [FA(I)R: Feeling all Rights in Digital World: Participatory approaches to address harmful behavior in digital environments](/chi-sird-2026/assets/documents/CHI-SIRD-15.pdf)
 - **Rapps, B.**: [Sociotechnical Imaginaries for Technical Design Workshop](/chi-sird-2026/assets/documents/CHI-SIRD-16.pdf)
 - **Fitzsimmons, A. Z., Fasiang, K., Gerber, E. M., Long, D.**: [Towards Increasing Adolescents' Awareness and Understanding of AI Bias](/chi-sird-2026/assets/documents/CHI-SIRD-17.pdf)
