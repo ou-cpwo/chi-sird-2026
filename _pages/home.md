@@ -49,8 +49,8 @@ design into practice and shape the future of responsible technology
 that prevents gender-based online harms.
 
 **Important dates:**<br/>
-  **- Submission deadline:** 12 Feb 2026<br/>
-  **- Notification of Acceptance:** 19 Feb 2026<br/> 
+  **~~- Submission deadline:** 12 Feb 2026~~<br/>
+  **~~- Notification of Acceptance:** 19 Feb 2026~~<br/> 
   **- Workshop Date/time:** 15 April 2026; Session 1 - 14:15-15:45 CEST; Session 2 - 16:30-18:00 CEST
 {: .notice--info}
 
