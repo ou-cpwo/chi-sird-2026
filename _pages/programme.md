@@ -17,7 +17,7 @@ The schedule of activities is organised into 2 sessions, each of 90 minutes dura
 
  **Part 2 - Concepts of Responsibility & Responsible Design (60 minutes)**
   - Introducing card-sorting: Using generic deck of drinking vessels, demonstrate the card sorting activity and what should be recorded for each sort
-  - Concept exploration – 2 people in each group, use card sorting to explore each of three concepts – gender-based online harm, responsibility, responsible design. Please sort the following cards based on your own criteria and categories, share with your group; you may sort the cards differently based on two or more criteria. Take turns to group the cards reflecting on the groups and sorting criteria you use in each case. Facilitators will record each sort by photographing it.
+  - Concept exploration – 2 people in each group, use card sorting to explore each of three concepts – gender-based online harm, responsibility, responsible design. *Please sort the following cards based on your own criteria and categories, share with your group; you may sort the cards differently based on two or more criteria. Take turns to group the cards reflecting on the groups and sorting criteria you use in each case. Facilitators will record each sort by photographing it.*
   - After 4-5 sorts have been completed (or 10 minutes have elapsed), convene a plenary discussion and invite pairs to their interesting and/or surprising groups and criteria.
   - Wrap up session with a meta-discussion / reflection on the method
 
