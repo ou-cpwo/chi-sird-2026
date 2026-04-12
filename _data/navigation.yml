@@ -2,12 +2,12 @@
 main:
   - title: "Home"
     url: /
+  - title: "Programme"
+    url: /programme/
   - title: "CfP"
     url: /cfp/
   - title: "Organisers"
     url: /organisers/
-  - title: "Programme"
-    url: /programme/
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
