@@ -29,6 +29,7 @@ feature_row:
 ### Welcome to CHI SIRD 2026!
 
 **Latest News:**<br/>
+**Workshop programme** is live! See [Programme](https://ou-cpwo.github.io/chi-sird-2026/programme]/)<br/>
 **Position Papers** are now published - just click on [Position Papers](https://ou-cpwo.github.io/chi-sird-2026/CHI-submission/)<br/>
 **Workshop Date/time:** 15 April 2026; Session 1 - 14:15-15:45 CEST; Session 2 - 16:30-18:00 CEST
 {: .notice--success}
@@ -50,7 +51,7 @@ that prevents gender-based online harms.
 **Important dates:**<br/>
   **- Submission deadline:** 12 Feb 2026<br/>
   **- Notification of Acceptance:** 19 Feb 2026<br/> 
-  **- Workshop Date/time:** 15 April 2026; Session 1 - 14:15-15:45 CEST; Session 2 - 16:30-18:00 
+  **- Workshop Date/time:** 15 April 2026; Session 1 - 14:15-15:45 CEST; Session 2 - 16:30-18:00 CEST
 {: .notice--info}
 
 {% include feature_row %}
